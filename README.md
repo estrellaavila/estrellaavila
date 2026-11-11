@@ -4,8 +4,7 @@
   <img src="./malloon-gif.gif" width="180" alt="Cute-coding-cat">
 </p>
 
-## <p align="center"> ⊹ ࣪ ˖ Let's Connect! ⊹ ࣪ ˖
-
+<h3 align="center">⊹ ࣪ ˖ Let's Connect! ⊹ ࣪ ˖ </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/estrella-avila-campos/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
