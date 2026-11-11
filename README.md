@@ -1,5 +1,9 @@
 ## Hello, I'm Estrella. Aspiring Software Engineer from Dallas, TX ⋆˙⟡
 
+<p align="center">
+  <img src="malloon-kawaii.gif" width="180" alt="maloon-GIF">
+</p>
+
 ## <p align="center"> ⊹ ࣪ ˖ Let's Connect! ⊹ ࣪ ˖
 
 <p align="center">
