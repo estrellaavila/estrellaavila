@@ -1,7 +1,7 @@
 ## Hello, I'm Estrella. Aspiring Software Engineer from Dallas, TX ⋆˙⟡
 
 <p align="center">
-  <img src="malloon-kawaii.gif" width="180" alt="maloon-GIF">
+  <img src="https://raw.githubusercontent.com/estrellaavila/estrellaavila/main/malloon-kawaii.gif" width="180" alt="Cute cat GIF">
 </p>
 
 ## <p align="center"> ⊹ ࣪ ˖ Let's Connect! ⊹ ࣪ ˖
